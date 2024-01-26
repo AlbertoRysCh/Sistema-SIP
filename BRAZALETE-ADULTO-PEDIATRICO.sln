@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BRAZALETE-ADULTO-PEDIATRICO", "WP-PACIENTES\BRAZALETE-ADULTO-PEDIATRICO.csproj", "{7DDAC27B-5B59-4322-A5B2-E5C54BD0AF18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DDAC27B-5B59-4322-A5B2-E5C54BD0AF18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DDAC27B-5B59-4322-A5B2-E5C54BD0AF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DDAC27B-5B59-4322-A5B2-E5C54BD0AF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DDAC27B-5B59-4322-A5B2-E5C54BD0AF18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06FA4102-BD91-40D1-B28E-153972ED7B62}
+	EndGlobalSection
+EndGlobal
